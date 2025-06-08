@@ -1,0 +1,32 @@
+{
+    "reports": [
+        {
+        "id": 1,
+        "location": "44th Ave, Park Central",
+        "incident": "Seems like a burst water pipe",
+        "date_reported": "2025-04-23",
+        "status": "Received"
+        },
+        {
+            "id": 2,
+            "location": "Main St, Parktown North",
+            "incident": "Leaking broken faucet",
+            "date_reported": "2025-04-24",
+            "status": "Fixed"
+        },
+        {
+            "id": 3,
+            "location": "Oxford Rd, Rosebank",
+            "incident": "Water meter malfunction",
+            "date_reported": "2025-04-25",
+            "status": "Acknowledged"
+        },
+        {
+            "id": 4,
+            "location": "Jan Smuts Ave, Craighall Park",
+            "incident": "Burst water main",
+            "date_reported": "2025-04-26",
+            "status": "Received"
+        }
+    ]
+}
