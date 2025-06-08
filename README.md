@@ -9,8 +9,16 @@ This project consists of a React frontend and Node.js backend application.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the frontend directory, you can run:
+### `npm i`
 
+In the backend directory, you can run:
+### `npm i`
+
+In the project directory, you can run:
+### `npm i`
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs both the frontend and backend concurrently using [concurrently](https://www.npmjs.com/package/concurrently).

@@ -1,0 +1,24 @@
+{
+  "name": "water_shortage",
+  "version": "1.0.0",
+  "description": "This project consists of a React frontend and Node.js backend application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm start --prefix frontend\" \"npm start --prefix backend\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RelCode/water_shortage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RelCode/water_shortage/issues"
+  },
+  "homepage": "https://github.com/RelCode/water_shortage#readme",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
